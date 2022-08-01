@@ -1,4 +1,5 @@
-file:///C:/Users/User/Desktop/i0afrx.webp
+![580bcc05c271d](https://user-images.githubusercontent.com/110424000/182250368-b945faf9-7ab7-41ae-86b7-859f19ae2624.jpg)
+
 
 I'm Junior FrontEnd Developer 
 

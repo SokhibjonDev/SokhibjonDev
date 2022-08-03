@@ -31,5 +31,4 @@ I Like programming, My favorite technology is React JS
 * Python
 * C
 * C++
-* C#
 * MySQL

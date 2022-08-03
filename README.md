@@ -24,7 +24,7 @@ I Like programming, My favorite technology is React JS
 * Express.js
 * React & Redux
 * Node.js
-* Socket.io
+* RealTime Options & Socket.io
 
 # Bootcamp Development                                
 * Java 

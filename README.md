@@ -10,7 +10,7 @@ I Like programming, My favorite technology is React JS
 
 🌱 I’m currently learning Front-end and Back-end
 
-How to reach me: +998 94 404 56 40
+How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 
 
 # SKILLS & ENDORSEMENTS

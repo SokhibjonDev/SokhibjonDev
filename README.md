@@ -17,10 +17,10 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 
 * HTML & CSS & SASS
 * Bootstrap & Materialize & Semantic
-* JavaScript & Typescript
+* JavaScript
 * jQuery
 * Git & Github
-* MongoDB & MySQL
+* MongoDB
 * Express.js
 * React & Redux
 * Node.js
@@ -33,3 +33,4 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * C++
 * C#
 * MySQL
+* Typescript

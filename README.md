@@ -8,7 +8,7 @@ I started programming in 2021.
 
 My favorite technology is React JS
 
-I’m currently learning Bootcamp Development
+I’m currently learning Back End Development
 
 How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 

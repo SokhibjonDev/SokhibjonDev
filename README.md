@@ -15,7 +15,8 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 
 # SKILLS & ENDORSEMENTS
 
-* HTML & CSS & SASS
+* HTML & Handlebars
+* CSS & SASS
 * Bootstrap & Materialize & Semantic
 * JavaScript
 * jQuery

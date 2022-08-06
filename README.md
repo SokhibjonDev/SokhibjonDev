@@ -6,7 +6,7 @@ I'm Junior FrontEnd Developer
 
 I started programming in 2021.
 
-I Like programming, My favorite technology is React JS
+My favorite technology is React JS
 
 I’m currently learning Bootcamp Development
 

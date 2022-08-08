@@ -5,7 +5,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <div style="display:flex;"><a style="margin-right:10px;" href="https://github.com/SokhibjonDev/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SokhibjonDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SokhibjonDev/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokhibjonDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>

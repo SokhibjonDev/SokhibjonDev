@@ -51,6 +51,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Git & Github
 * MongoDB
 * React
+* Redux
 * Node.js
 * RealTime Options & Socket.io
 
@@ -62,6 +63,5 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * C#
 * MySQL
 * Typescript
-* Redux
 * Express.js
 

@@ -56,6 +56,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * RealTime Options & Socket.io
 
 # Bootcamp Development                                
+* Express.js
 * Java 
 * Python
 * C
@@ -63,5 +64,3 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * C#
 * MySQL
 * Typescript
-* Express.js
-

@@ -50,8 +50,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * jQuery
 * Git & Github
 * MongoDB
-* React
-* Redux
+* React & Redux
 * Node.js
 
 # Bootcamp Development                                

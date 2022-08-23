@@ -58,9 +58,6 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Express.js
 * Java 
 * Python
-* C
-* C++
-* C#
 * MySQL
 * Typescript
 * Vue JS

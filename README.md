@@ -53,7 +53,8 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * React & Redux
 * Node.js
 
-# Bootcamp Development                                
+# Bootcamp Development   
+* React Native
 * Express.js
 * Java 
 * Python

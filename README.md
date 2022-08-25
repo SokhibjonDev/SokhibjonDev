@@ -46,7 +46,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * HTML & Handlebars
 * CSS & SASS
 * Bootstrap & Materialize
-* JavaScript & Typescript
+* JavaScript
 * jQuery
 * Git & Github
 * MongoDB

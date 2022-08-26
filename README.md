@@ -54,11 +54,11 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Figma
 
 # Bootcamp Development   
+* Typescript
+* Angular JS
+* Vue JS
 * React Native
 * Webpack
-* Express JS
 * Java 
 * Python
 * MySQL
-* Typescript
-* Vue JS

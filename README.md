@@ -57,7 +57,10 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Typescript
 * Angular JS
 * Vue JS
+* Next JS
 * React Native
+* GraphQL
+* Flutter
 * Webpack
 * Java 
 * Python

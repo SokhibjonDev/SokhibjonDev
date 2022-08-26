@@ -40,6 +40,7 @@ I’m currently learning Back End Development
 
 How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 
+![image](https://user-images.githubusercontent.com/110424000/186873226-6a36393f-1a84-459f-8013-f4eb8cc84ce1.png)
 
 # SKILLS & ENDORSEMENTS
 

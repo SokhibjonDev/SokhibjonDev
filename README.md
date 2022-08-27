@@ -62,7 +62,9 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * React Native
 * GraphQL
 * Flutter
-* Webpack
+* C
+* C#
+* C++
 * Java 
 * Python
 * MySQL

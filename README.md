@@ -52,7 +52,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Git & Github
 * React & Redux
 * Node JS
-* Figma
+* Figma & Photoshop
 
 # Bootcamp Development   
 * Typescript

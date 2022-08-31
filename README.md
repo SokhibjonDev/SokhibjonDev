@@ -42,7 +42,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 
 
 
-# SKILLS & ENDORSEMENTS
+## Skills & Endorsement
 
 * HTML & Handlebars
 * CSS & SASS
@@ -53,7 +53,7 @@ How to reach me: +998 94 404 56 40 or +998 93 574 67 66
 * Node JS
 * Figma & Photoshop
 
-# Bootcamp Development   
+## Bootcamp Development   
 * Typescript
 * Angular JS
 * Vue JS

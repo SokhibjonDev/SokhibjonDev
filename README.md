@@ -1,10 +1,4 @@
 
-<p align="center">
-    <a href="https://github.com/SokhibjonDev/github-readme-streak-stats">
-        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Md Irfan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SokhibjonDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
 ![facebook-5000](https://user-images.githubusercontent.com/110424000/182250542-576c4aec-c02d-4aab-b26c-9402f98575d9.jpg)
 
 

@@ -1,6 +1,6 @@
 ### Hey , what's up !
 
-I'm Junior FrontEnd Developer 
+I'm Junior FrontEnd Programmer
 
        I started programming at 2021.
        

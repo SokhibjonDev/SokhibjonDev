@@ -1,14 +1,10 @@
 ### Hey , what's up !
 
 I'm Junior FrontEnd Developer 
-
-I started programming in 2021.
-
-My favorite technology is React JS
-
-I’m currently learning Back End Development
-
-How to reach me: sokhibjondev@gmailcom
+       I started programming in 2021.
+               My favorite technology is React JS
+                      I’m currently learning Back End Development
+                              How to reach me: sokhibjondev@gmailcom
 
 <p align="center">
     <a href="https://github.com/SokhibjonDev/github-readme-streak-stats">

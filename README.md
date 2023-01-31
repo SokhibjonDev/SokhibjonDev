@@ -5,9 +5,6 @@
     </a>
 </p>
 
-## My Github Stats
-
-
 ![facebook-5000](https://user-images.githubusercontent.com/110424000/182250542-576c4aec-c02d-4aab-b26c-9402f98575d9.jpg)
 
 

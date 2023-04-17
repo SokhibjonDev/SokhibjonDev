@@ -2,7 +2,7 @@
 
 I'm Junior FrontEnd Programmer
 
-       I started programming at 2021.
+       I started programming in 2021.
        
                   My favorite technology is React JS
                
@@ -37,6 +37,7 @@ I'm Junior FrontEnd Programmer
 * React Native
 * GraphQL
 * Flutter
+* 
 ## Future Software
 * C
 * C++

@@ -27,7 +27,7 @@
 <h1>Hey , wassup </h1>
 
 My name is Sokhibdjon ( Marvin )
-I am a web developer(+ freelancer😁) and I create a site for you and your business✨📈
+I'm Front-Dev Programmer + Freelacer
 
 ### Skills & Endorsements
 
@@ -38,13 +38,14 @@ I am a web developer(+ freelancer😁) and I create a site for you and your busi
   <li>jQuery</li>
   <li>Github</li>
   <li>React</li>
+  <li>Reduce</li>
   <li>Node.js</li>
 </ul>
 
 # 📫 How to reach me:
 
 <ul>
-<li> <img alt="SokhibjonDev" src="[[[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://cdn.icon-icons.com/icons2/2642/PNG/96/google_mail_gmail_logo_icon_159346.png)](https://cdn.icon-icons.com/icons2/2642/PNG/512/google_mail_gmail_logo_icon_159346.png)" /> <a href="mailto:sokhibjondev@gmail.com">Email</a> </li>
-  <li><img alt="SokhibjonDev" src="[[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://cdn.icon-icons.com/icons2/1753/PNG/512/iconfinder-social-media-applications-3instagram-4102579_113804.png)" /><a href="https://www.instagram.com/srmrvnjon/">Instagram</a> </li>
- <li> <img alt="SokhibjonDev" src="[[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png)https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png](https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png)https://cdn.icon-icons.com/icons2/2108/PNG/512/telegram_icon_130816.png" /><a href="https://t.me/oneheartless">Telegram</a> </li>
+<li><a href="mailto:sokhibjondev@gmail.com">Email</a> </li>
+<li><<a href="https://www.instagram.com/srmrvnjon/">Instagram</a> </li>
+<li><a href="https://t.me/oneheartless">Telegram</a> </li>
 </ul>

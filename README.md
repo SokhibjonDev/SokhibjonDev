@@ -44,7 +44,7 @@ I am a web developer(+ freelancer😁) and I create a site for you and your busi
 # 📫 How to reach me:
 
 <ul>
-  <li><a href="mailto:sokhibjondev@gmail.com">Email</a></li>
-  <li><a href="https://www.instagram.com/srmrvnjon/">Instagram</a></li>
-  <li><a href="https://t.me/oneheartless">Telegram</a></li>
+ <img alt="SokhibjonDev" src="[[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png)](https://cdn.icon-icons.com/icons2/2642/PNG/96/google_mail_gmail_logo_icon_159346.png)" /> <a href="mailto:sokhibjondev@gmail.com">Email</a>
+  <img alt="SokhibjonDev" src="[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/1753/PNG/96/iconfinder-social-media-applications-3instagram-4102579_113804.png)" /><a href="https://www.instagram.com/srmrvnjon/">Instagram</a>
+ <img alt="SokhibjonDev" src="[[https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg](https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png)](https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png)https://cdn.icon-icons.com/icons2/3053/PNG/512/telegram_macos_bigsur_icon_189662.png" /><a href="https://t.me/oneheartless">Telegram</a>
 </ul>

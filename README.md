@@ -45,7 +45,7 @@ I'm Front-Dev Programmer + Freelacer
 # 📫 How to reach me:
 
 <ul>
-<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"><a style="color:white;" href="mailto:sokhibjondev@gmail.com">Email</a></li>
-<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"><a style="color:white;" href="https://www.instagram.com/srmrvnjon/">Instagram</a></li>
-<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png"><a style="color:white;" href="https://t.me/oneheartless">Telegram</a> </li>
+<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"><a style="color: white" href="mailto:sokhibjondev@gmail.com"> Email</a></li>
+<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"><a style="color:white" href="https://www.instagram.com/srmrvnjon/"> Instagram</a></li>
+<li ><img width="20px" height="20px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png"><a style="color:white" href="https://t.me/oneheartless"> Telegram</a> </li>
 </ul>

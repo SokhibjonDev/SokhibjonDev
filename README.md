@@ -11,7 +11,7 @@
     <div style="display:flex;"><a style="margin-right:10px;" href="https://github.com/SokhibjonDev/github-readme-stats"><img alt="Md Irfan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SokhibjonDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><a href="https://github.com/SokhibjonDev/github-readme-stats"><img alt="Md Irfan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SokhibjonDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
   <br/>
 
-<a href="https://github.com/SokhibjonDev/github-readme-activity-graph"><img alt="SokhibjonDev" src="https://activity-graph.herokuapp.com/graph?username=SokhibjonDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/SokhibjonDev/github-readme-activity-graph"><img alt="SokhibjonDev" src="https://i.pinimg.com/originals/dc/e8/61/dce861c69df8f826fb79a47fd55a125d.jpg" /></a>
 
 
 ## ❤ Views and Followers
